@@ -27,7 +27,7 @@ dbt Labs is committed to providing backward compatibility for all versions 1.x, 
 
 ## New and changed documentation
 
-**Coming Soon**
+[Project dependencies](project-dependencies): Introduce `dependencies.yml`. Allow enforcing model access (public vs. protected/private) across project/package boundaries. Enable cross-project `ref` of public models, without requiring the installation of upstream source code, as a feature of dbt Cloud Enterprise.
 
 ### Quick hits
 

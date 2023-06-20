@@ -355,6 +355,7 @@ const sidebarSettings = {
             "docs/collaborate/govern/model-access",
             "docs/collaborate/govern/model-contracts",
             "docs/collaborate/govern/model-versions",
+            "docs/collaborate/govern/project-dependencies",
           ],
         },
       ],
